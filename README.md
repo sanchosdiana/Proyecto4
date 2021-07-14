@@ -18,7 +18,13 @@ Realice pruebas de estacionaridad y ergodicidad a la señal modulada senal_Tx y 
 
 El proceso de estacionaridad y ergocidad es una distribución de probabilidad que varía de una forma constante a lo largo de cierto periodo de tiempo. Como se observa en la imagen del resultado se obtuvieron ondas relativamente constantes que ccoinciden con la definición de este proceso. También se muestra el periodo de tiempo que se utiliza para esto.
 
-![Ondas](imagenes/grafica2.JPG)
+![Estacionaridad y ergodicidad](imagenes/grafica2.JPG)
 
+### 4.3. - Densidad espectral de potencia
+Determine y grafique la densidad espectral de potencia para la señal modulada senal_Tx.
+
+Se muestra como para cada frecuencia la energía varía, mostrando la variación ante la transmisión de la imagen, en función de la frecuencia.
+
+![Ondas](Densidad espectral de potencia/grafica3.JPG)
 
 
