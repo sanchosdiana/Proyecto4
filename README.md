@@ -5,3 +5,5 @@
 
 ### 4.1. - Modulación 16-QAM
 Realizar una simulación del sistema de comunicaciones utilizando una modulación 16-QAM.
+
+![Imagen transmitida e imagen recuperada](imagenes/imagenrecuperada.JPG)
