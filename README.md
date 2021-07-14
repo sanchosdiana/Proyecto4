@@ -25,6 +25,6 @@ Determine y grafique la densidad espectral de potencia para la señal modulada s
 
 Se muestra como para cada frecuencia la energía varía, mostrando la variación ante la transmisión de la imagen, en función de la frecuencia.
 
-![Ondas](Densidad espectral de potencia/grafica3.JPG)
+![Densidad espectral de potencia](imagenes/grafica3.JPG)
 
 
