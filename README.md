@@ -14,5 +14,11 @@ También se obtuvo la forma de las ondas al hacer todo este proceso como se mues
 ![Ondas](imagenes/grafica1.JPG)
 
 ### 4.2. - Estacionaridad y ergodicidad
+Realice pruebas de estacionaridad y ergodicidad a la señal modulada senal_Tx y obtenga conclusiones sobre estas.
+
+El proceso de estacionaridad y ergocidad es una distribución de probabilidad que varía de una forma constante a lo largo de cierto periodo de tiempo. Como se observa en la imagen del resultado se obtuvieron ondas relativamente constantes que ccoinciden con la definición de este proceso. También se muestra el periodo de tiempo que se utiliza para esto.
+
+![Ondas](imagenes/grafica2.JPG)
+
 
 
